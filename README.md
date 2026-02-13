@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a school management system to regulate both student and teacher performance.<br>👯 I’m looking to collaborate on any interesting front-end or back-end projects.<br>🌱 I’m currently learning C++, Java and ReactNative.<br>💬 Ask me about PHP, HTML, CSS, JavaScript, ReactJS.<br>⚡ Fun fact TypeScript is actually JavaScript with tight jeans.
+🔭 I’m currently working on an online shop that would enable students on my campus have a platform they can trade on. The idea is to create a digital shop where people can have trust in without having to expose themselves.<br>👯 I’m looking to collaborate on any interesting front-end or back-end projects.<br>🌱 I’m currently learning C++, Java and ReactNative.<br>💬 Ask me about PHP, HTML, CSS, JavaScript, ReactJS.<br>⚡ Fun fact TypeScript is actually JavaScript with tight jeans.
 
 
 ## 🌐 Socials:
